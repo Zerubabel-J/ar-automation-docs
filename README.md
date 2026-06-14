@@ -257,15 +257,3 @@ scenarios are linked by that tag, not by a webhook.
 ---
 
 
-## Legend
-
-| Symbol | Meaning |
-|--------|---------|
-| 🟦 Blue box | A Make.com scenario (one of the five live automations) |
-| 🟨 Yellow cylinder | A Make **datastore** (config or state stored inside Make) |
-| ⬜ Grey cylinder | An **external system** (Service Titan, Constant Contact) |
-| Thick arrow `==>` | A live **webhook** call, the relay chain in order |
-| Dotted arrow | A read or write to an external system or datastore |
-| 🟥 Red box | A point where processing **stops** for that invoice, by design |
-| 🟩 Green box | A successful end state |
-| ⚠️ | An **open question** still to confirm (see section 10) |
