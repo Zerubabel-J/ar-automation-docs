@@ -39,7 +39,8 @@ one-off HTML campaign for every single reminder.
 ---
 
 ## 2. Business view 
-This is the version to show our clients : the outcome, not the wiring.
+
+This section focuses on the outcome, not the wiring. The implementation details are documented below.
 
 ```mermaid
 flowchart TD
