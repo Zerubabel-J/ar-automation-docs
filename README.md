@@ -171,6 +171,7 @@ flowchart TD
 
     classDef stop fill:#f8d7da,stroke:#dc3545,color:#000;
 ```
+<img width="1863" height="1087" alt="image" src="https://github.com/user-attachments/assets/f18fd052-8c43-4b6f-93f3-931b19daa3a4" />
 
 The 16 windows: invoiced 22 to 23 days ago is *7 days before due*; 29 to 30 days is *due today*; then
 5-day steps from *5 days overdue* to *30*, then *45, 60, 70, 80, 90, 100, 110, 120*. If Service Titan
@@ -207,6 +208,9 @@ flowchart TD
 
 The `Temporary Contact` tag applied at creation is exactly what Scenario 4 hunts for. The two
 scenarios are linked by that tag, not by a webhook.
+
+<img width="1863" height="1087" alt="image" src="https://github.com/user-attachments/assets/e727d5b9-a21f-41ad-94fa-cdeb49dd26c2" />
+
 
 ### Scenarios 5 and 4: the cleanup crew
 
